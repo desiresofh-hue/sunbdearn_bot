@@ -1,0 +1,7 @@
+name = "telegram-reward-bot"
+compatibility_date = "2026-09-17"
+
+[[d1_databases]]
+binding = "db"
+database_name = "earnbot-db"
+database_id = "YOUR_DATABASE_ID"
